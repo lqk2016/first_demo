@@ -17,5 +17,6 @@ print c1()
 print('*')*5
 c2 = counter(0)
 print c2()
+print('*')*5
 
 del c1, c2
